@@ -88,7 +88,7 @@
             },
             "properties": {
                 "hardwareProfile": {
-                    "vmSize": "D2ads_v5"
+                    "vmSize": "Standard_D2ads_v5"
                 },
                 "osProfile": {
                     "computerName": "[concat('vm-dc-', parameters('Environment'),'-', parameters('LocationAbbr'),'-', copyIndex())]",
