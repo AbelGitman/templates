@@ -88,7 +88,7 @@
             },
             "properties": {
                 "hardwareProfile": {
-                    "vmSize": "Standard_DC2s_v2"
+                    "vmSize": "Standard_DC1ds_v3"
                 },
                 "osProfile": {
                     "computerName": "[concat('vm-dc-', parameters('Environment'),'-', parameters('LocationAbbr'),'-', copyIndex())]",
