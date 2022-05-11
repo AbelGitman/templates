@@ -14,11 +14,11 @@
         },
         "Location": {
             "type": "string",
-            "defaultValue": "eastus"
+            "defaultValue": "australiaeast"
         },
         "LocationAbbr": {
             "type": "string",
-            "defaultValue": "eus"
+            "defaultValue": "auseast"
         },
         "Timestamp": {
             "type": "string"
