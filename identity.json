@@ -18,7 +18,7 @@
         },
         "LocationAbbr": {
             "type": "string",
-            "defaultValue": "westus2"
+            "defaultValue": "west2"
         },
         "Timestamp": {
             "type": "string"
