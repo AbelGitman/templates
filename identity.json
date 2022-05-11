@@ -88,7 +88,7 @@
             },
             "properties": {
                 "hardwareProfile": {
-                    "vmSize": "tandard_D2ads_v5"
+                    "vmSize": "Standard_B2s"
                 },
                 "osProfile": {
                     "computerName": "[concat('vm-dc-', parameters('Environment'),'-', parameters('LocationAbbr'),'-', copyIndex())]",
