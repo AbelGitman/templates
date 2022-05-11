@@ -14,11 +14,11 @@
         },
         "Location": {
             "type": "string",
-            "defaultValue": "westus2"
+            "defaultValue": "eastus"
         },
         "LocationAbbr": {
             "type": "string",
-            "defaultValue": "west2"
+            "defaultValue": "eus"
         },
         "Timestamp": {
             "type": "string"
